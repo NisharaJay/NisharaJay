@@ -53,9 +53,8 @@ Design Tools
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dthnjayakody@gmail.com)
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishara-jayakody-4b8b33270/)
 
 </div>
