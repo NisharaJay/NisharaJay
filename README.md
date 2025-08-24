@@ -6,18 +6,15 @@
 
 </div>
 
-
----
-
 ## 🚀 About Me
 
 🎓 **IT Undergraduate** at **University of Moratuwa**  
 🌱 Passionate about full-stack development and emerging technologies  
 📧 **Reach me at:** [dthnjayakody@gmail.com](mailto:dthnjayakody@gmail.com)  
 
----
+<br/>
 
-🛠️ The Technologies and Tools I work with
+## 🛠️ The Technologies and Tools I work with
 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -50,6 +47,7 @@ Design Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
 </p>
 
+<br/> 
 
 ## 🤝 Let's Connect!
 
