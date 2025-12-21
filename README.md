@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm **Nishara**
+# Nishara here!👋
 
-🎓 **IT Undergraduate** at **University of Moratuwa**  
-🌱 Full-stack web dev? Absolutely. AI/ML? Always yes. Mobile? Why not a little? <br>
-✨ Learning, building, and sprinkling a little tech magic
+🎓 **IT Undergraduate** at **University of Moratuwa**   
+💻 Into full-stack web and AI/ML  
+🌱 Still learning, still building
